@@ -2,7 +2,7 @@
 
 **All of the projects are done in Bahasa**
 
-Semua project ini dilakukan ketika mengikuti Course Practicum Indonesia Oct 2022 - July 2022
+Semua project ini dilakukan ketika mengikuti Course Practicum Indonesia Oct 2022 - July 2023
 
 | Nama Project                    | Deskripsi                       | Daftar Library                     |
 | :------------------------------ | :------------------------------ |:------------------------------|
