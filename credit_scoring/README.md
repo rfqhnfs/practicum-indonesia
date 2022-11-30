@@ -13,7 +13,7 @@
 - *total_income* - pendapatan bulanan
 - *purpose* - alasan mengambil pinjaman
 
-## Question:
+## Questions:
 
 - Apakah ada hubungannya antara memiliki anak dan ketepatan waktu dalam melunasi pinjaman?
 - Apakah ada hubungannya antara status perkawinan dan ketepatan waktu dalam melunasi pinjaman?
