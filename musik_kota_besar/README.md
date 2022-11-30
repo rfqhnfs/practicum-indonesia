@@ -8,7 +8,7 @@
 - *time* — lama waktu lagu tersebut diputar
 - *day* — nama hari
 
-## Hipotesis:
+## Hypothesis:
 
 - Aktivitas pengguna berbeda-beda tergantung pada hari dan kotanya
 - Pada Senin pagi penduduk Springfield dan Shelbyville mendengarkan genre yang berbeda
