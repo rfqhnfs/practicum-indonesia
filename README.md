@@ -9,3 +9,4 @@ Semua project ini dilakukan ketika mengikuti Course Practicum Indonesia Oct 2022
 | [Musik Di Kota Besar](musik_kota_besar)         | Memeriksa perilaku pendengar musik di beberapa kota besar | *pandas*        |
 [Kredit Bank](credit_scoring) | Menganalisis risiko gagal bayar peminjam kredit | *pandas*, *matplotlib.pyplot*
 [Car Sale](car_sale) | Menentukan faktor-faktor yang memengaruhi harga sebuah kendaraan | *pandas*, *matplotlib.pyplot*, *seaborn*
+[Megaline Telecomunication](megaline_telecomunication) | Menganalisis perilaku klien dan menentukan paket prabayar mana yang mendatangkan lebih banyak pendapatan | *pandas, matplotlib.pyplot, seaborn, numpy, scipy.stats*
