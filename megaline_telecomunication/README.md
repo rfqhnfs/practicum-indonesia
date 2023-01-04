@@ -1,12 +1,17 @@
 ## Data:
 
-- *userid* — pengenal pengguna
-- *track* — judul trek
-- *artist* — nama artis
-- *genre* — jenis musik
-- *city* — kota tempat pengguna berada
-- *time* — lama waktu lagu tersebut diputar
-- *day* — nama hari
+Data terdiri dari 5 csv file:
+- megaline_calls.csv
+  - `id` — ID sesi web unik
+  - `call_date` — tanggal panggilan
+  - `duration` — durasi panggilan (dalam menit)
+  - `user_id` — ID pengguna yang melakukan panggilan
+- megaline_internet.csv
+- megaline_messages.csv Unduh dataset
+- megaline_plans.csv
+- megaline_users.csv
+
+
 
 ## Hypothesis:
 
