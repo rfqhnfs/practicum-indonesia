@@ -35,13 +35,22 @@ Data terdiri dari 5 csv file:
   - `plan` — nama paket telepon
 
 
-## Hypothesis:
+## Goals:
+- Menganalisis perilaku klien dan menentukan paket prabayar mana yang mendatangkan lebih banyak pendapatan
 
-- Aktivitas pengguna berbeda-beda tergantung pada hari dan kotanya
-- Pada Senin pagi penduduk Springfield dan Shelbyville mendengarkan genre yang berbeda
-- Pada Jumat malam penduduk Springfield dan Shelbyville mendengarkan genre yang berbeda
-- Pendengar di Springfield dan Shelby ville memiliki preferensi musik yang berbeda. Springfield menyukai genre pop sementara Shelbyville menyukai genre rap
+## Step:
+- Pengecekan Kualitas Data
+- Modifikasi Data
+- Analisis Data; Mendeskripsikan perilaku konsumen
+- Uji Hipotesis
+  - Rata-rata pendapatan dari pengguna paket telepon Ultimate dan Surf berbeda
+  - Rata-rata pendapatan dari pengguna di wilayah NY-NJ berbeda dengan pendapatan pengguna dari wilayah lain
+
 
 ## Library:
 
 - pandas
+- matplotlib.pyplot
+- seaborn
+- numpy
+- scipy.stats
